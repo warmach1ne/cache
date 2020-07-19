@@ -6,11 +6,6 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
-			"name": "blizzard",
-			"description": "CDN for blizzard/battle.net",
-			"domain_files": ["blizzard.txt"]
-		},
-		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
 			"domain_files": ["bsg.txt"]
